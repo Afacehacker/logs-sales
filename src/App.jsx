@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const TELEGRAM_URL = 'https://t.me/tosshiitt'
+const TELEGRAM_URL = 'https://t.me/lgscrt'
 
 // ── Telegram SVG icon ──────────────────────────────────────────────────────
 function TelegramIcon({ size = 20 }) {
@@ -402,7 +402,7 @@ function FinalCTA() {
             hover:scale-105 hover:shadow-2xl hover:shadow-[#C4885A]/40
             active:scale-95 transition-all duration-300">
           <TelegramIcon size={22} />
-          Join @tosshiitt on Telegram
+          Join @lgscrt on Telegram
         </a>
 
         <p className="mt-5 text-[#EDE0C4]/30 text-sm">
